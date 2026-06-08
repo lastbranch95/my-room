@@ -1,0 +1,9 @@
+{
+  "name": "My Room",
+  "short_name": "My Room",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#5865f2",
+  "theme_color": "#5865f2",
+  "icons": []
+}
